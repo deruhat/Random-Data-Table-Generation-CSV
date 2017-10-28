@@ -1,0 +1,6 @@
+1) on a terminal, navigate to the directory that contains bars.txt, beers.txt, Generate.java
+
+2) run command: javac Generate.java
+
+3) run command: java Generate
+
